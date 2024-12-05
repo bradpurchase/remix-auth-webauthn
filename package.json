@@ -79,7 +79,7 @@
   "dependencies": {
     "@simplewebauthn/browser": "^10.0.0",
     "@simplewebauthn/server": "^10.0.0",
-    "remix-auth": "^3.6.0",
+    "remix-auth": "^4.0.0",
     "tiny-webcrypto": "^1.0.1"
   }
 }
